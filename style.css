@@ -1,4 +1,8 @@
 
+@font-face {
+    font-family: Roboto;
+    src: url("./fonts/Roboto-VariableFont_wdth\,wght.ttf");
+}
 .bg-purple{
     background-color: #5E3BEE !important;
     color: white !important;
@@ -16,7 +20,7 @@
 .herosectioncolor{
     background-color: #F5FCFF !important;
     /* background-color: blueviolet; */
-     width: 100% !important;
+     /* width: 100% !important; */
 }
 .links li a{
     gap: 16.71px !important;
@@ -28,4 +32,59 @@
 .navshadow{
    box-shadow: 0px 5.33px 80px 0px #0000001A !important;
 
+}
+.card{
+    background-color: #F5FCFF !important ;
+    /* background-color: cadetblue; */
+    border: none !important;
+    outline: none !important;
+}
+.expertise-para{
+    font-size: 20px !important;
+    font-weight: 499 !important;
+    line-height: 150% !important;
+}
+.expertise-h1{
+    font-size: 64px !important;
+    font-weight: 700 !important;
+    line-height: 120% !important;
+    font-family: Roboto !important;
+}
+.project-card{
+    box-shadow: 0px 5.33px 16px 0px #00000026 !important;
+    border-radius: 5px !important;
+
+}
+#rightarrow{
+    height: 15px !important;
+}
+/* .cardgap-custom{
+    gap:30px !important ;
+} */
+ .reviews{
+    border: 1.33px solid #006B6A !important;
+ }
+ .stars-width{
+    width: 30% !important;
+ }
+ /* .profileimg-width{
+    width: 22% !important;
+ } */
+  .marginleft-custom{
+    margin-left: 10% !important ;
+  }
+  .marginleft-custom h1{
+   font-family: Roboto !important;
+}
+ .marginleft-custom h6{
+   font-family: Roboto !important;
+}
+.tags{
+    text-decoration: none !important;
+    font-size: 16px !important;
+    color: black !important;
+}
+.secondtags{
+    font-size: 16px !important;
+    color: black !important;
 }
