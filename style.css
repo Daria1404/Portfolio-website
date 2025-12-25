@@ -1,0 +1,31 @@
+
+.bg-purple{
+    background-color: #5E3BEE !important;
+    color: white !important;
+   
+}
+.leftdiv h1 span{
+    color:  #5E3BEE !important;
+}
+.outline{
+    border-color: #5E3BEE !important;
+    color: #5E3BEE !important;
+    padding: 11px 15px !important;
+    
+}
+.herosectioncolor{
+    background-color: #F5FCFF !important;
+    /* background-color: blueviolet; */
+     width: 100% !important;
+}
+.links li a{
+    gap: 16.71px !important;
+    font-size: 16px !important;
+}
+/* .gap-custom{
+    gap:20px !important ;
+} */
+.navshadow{
+   box-shadow: 0px 5.33px 80px 0px #0000001A !important;
+
+}
