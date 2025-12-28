@@ -5,8 +5,7 @@
 }
 .bg-purple{
     background-color: #5E3BEE !important;
-    color: white !important;
-   
+    color: white !important;  
 }
 .input-color{
     border:1px solid #5E3BEE !important;
@@ -18,12 +17,14 @@
     border-color: #5E3BEE !important;
     color: #5E3BEE !important;
     padding:  !important;
-    
 }
 .contact-btn{
     background-color: #5E3BEE !important;
-    color: white;
-
+    color: white !important;
+}
+.contact-btn:hover{
+     background-color: #5E3BEE !important;
+    color: white !important;
 }
 .herosectioncolor{
     background-color: #F5FCFF !important;
@@ -34,7 +35,6 @@
     color: #1C1E53 !important;
     font-size: 16px !important;
 }
-
 .navshadow{
    box-shadow: 0px 5.33px 80px 0px #0000001A !important;
 
@@ -48,11 +48,6 @@
 .card1{
     border-bottom: 4px solid #5E3BEE !important;
 }
-/* .expertise-para{
-    font-size: 20px !important;
-    font-weight: 499 !important;
-    line-height: 150% !important;
-} */
 .expertise-h1{
     font-size: 50px !important;
     font-weight: 700 !important;
@@ -67,23 +62,17 @@
 .project-card{
     box-shadow: 0px 5.33px 16px 0px #00000026 !important;
     border-radius: 5px !important;
-
 }
 #rightarrow{
     height: 15px !important;
 }
-/* .cardgap-custom{
-    gap:30px !important ;
-} */
  .reviews{
     border: 1.33px solid #006B6A !important;
  }
  .stars-width{
     width: 30% !important;
  }
- /* .profileimg-width{
-    width: 22% !important;
- } */
+ 
   .marginleft-custom{
     margin-left: 10% !important ;
   }
@@ -107,6 +96,7 @@
 }
 .para-color{
     color: #1C1E53 !important;
+    font-family: Roboto !important;
 }
 .border-custom{
     
@@ -114,10 +104,26 @@
     padding-bottom: 5px !important;
 }
 .vector{
-    width: 25px !important;
-    height: 25px !important;
+    width: 17px !important;
+    height: 17px !important;   
 }
 .name{
     color: black !important;
-    font-weight: 500 !important;
+    font-weight: 400 !important;
+    font-family: Roboto !important;
+}
+.h6-custom{
+    font-family: Roboto !important;
+}
+.aboutme-h1{
+    font-family: Roboto !important;
+}
+.aboutme-para{
+    font-weight: 400 !important;
+}
+.about-h6{
+    font-family: Roboto !important;
+}
+.contact-custom{
+    font-family: Roboto !important;
 }
